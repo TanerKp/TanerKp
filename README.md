@@ -6,15 +6,11 @@
 <h4 align="center">I am a computer science student in the THI Ingolstadt. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
-<div align="center">
-    ## 🛠️ My Skills
+## 🛠️ My Skills
 
-    ### 👉 Programming languages
-</div>
+### 👉 Programming languages
 
 <p align="center"> 
-
-
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
