@@ -44,7 +44,7 @@
 
 ### 👉 Frontend Development
 
-<p align="left"> 
+<p align="center"> 
     &emsp; 
     <a href="https://www.w3.org/html/" target="_blank"> 
         <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -66,7 +66,7 @@
 
 ### 👉 Databases & Cloud Hosting
 
-<p align="left">
+<p align="center">
     &emsp;
     <a href="https://www.postgresql.org/" target="_blank">
         <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -75,7 +75,7 @@
 </p>
   
 ### 👉Graphic Designing
-<p align="left">
+<p align="center">
     &emsp;
     <a href="https://www.adobe.com/de/products/photoshop.html" target="_blank"> 
         <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
@@ -89,7 +89,7 @@
 
 ### 👉 Software & Tools
 
-<p>
+<p align="center">
 &emsp;
     <a href="#">
         <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
