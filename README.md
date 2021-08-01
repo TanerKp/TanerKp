@@ -6,40 +6,44 @@
 <h4 align="center">I am a computer science student in the THI Ingolstadt. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
+<div align="center">
+    ## 🛠️ My Skills
 
+    ### 👉 Programming languages
+</div>
 
 <p align="center"> 
-    ## 🛠️ My Skills
-    ### 👉 Programming languages
-    &emsp; 
-    <a href="https://www.cprogramming.com/" target="_blank"> 
+
+
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-    </a> 
-    &emsp;
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    </a> 
-    &emsp;
+  </a> 
+  &emsp;
     <a href="https://docs.microsoft.com/de-de/dotnet/csharp/" target="_blank"> 
     <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-    </a> 
-    &emsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    </a>
-    &emsp;
-    <a href="https://www.typescriptlang.org/" target="_blank"> 
-        <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-    </a>
-    &emsp;
-    <a href="https://www.java.com" target="_blank"> 
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+   </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-    </a>
-    &emsp;
-    <a href="https://www.python.org" target="_blank">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-    </a>
-    &emsp; 
+  </a>
+&emsp; 
 </p>
 
 ### 👉 Frontend Development
