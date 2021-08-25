@@ -58,6 +58,14 @@
         <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </a>
     &emsp;
+    <a href="https://reactjs.org/" target="_blank"> 
+        <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    </a>
+      &emsp;
+    <a href="https://reactnative.dev/" target="_blank"> 
+        <img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    </a>
+    &emsp;
     <a href="https://angular.io/" target="_blank"> 
         <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
     </a>
