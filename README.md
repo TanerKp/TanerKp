@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Taner Kampa</h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" align="center">
+<div align="center">
+  <h1>Hi, I'm Taner Kampa</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=51F794&center=true&vCenter=true&multiline=true&height=70&lines=Computer+Science+Student;Always+learning+new+things"></a>
 </p>
