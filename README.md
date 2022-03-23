@@ -2,9 +2,6 @@
   <h1>Hi, I'm Taner Kampa</h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </div>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=51F794&center=true&vCenter=true&multiline=true&height=70&lines=Computer+Science+Student;Always+learning+new+things"></a>
-</p>
 <hr/>
 <h4 align="center">I am a computer science student in the THI Ingolstadt. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
