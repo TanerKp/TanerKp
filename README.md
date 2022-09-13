@@ -1,12 +1,9 @@
 
-# Hi 🧑🏻‍💻 My name is Taner
-
+# Hi 🧑🏻‍💻 My name is Taner! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ### Computer Science Student & Full Stack Developer
-
 <p>I've been learning to program since I was 17 years old. It all started by teaching myself C# with a book over the summer holidays. After exploring each chapter and solving all tasks, I successfully participated in my first Ludum Dare. From that point on, I dealt with several topics in computer science and then ended up studying. I worked as a working student and intern in the technical development of the automobile. There I was able to fully automate the testing using C, C# and Python. After a couple of years of working deeply with hardware, I wanted to get into web development. Now I work as a fullstack developer in a small company.</p>
 
 * 🌍  I'm based in Munich
-* ✉️  You can contact me at [kp.taner@gmail.com](mailto:kp.taner@gmail.com)
 * ⚡  Always open to learn new things
 
 <br>
@@ -14,67 +11,65 @@
 
 ### ⚛ Core
 
-<p align="start">
-  &emsp;
-  <a href="https://www.cprogramming.com/" target="_blank">
+<p align="start"> 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  </a>
+  </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a>
+  </a> 
   &emsp;
-    <a href="https://docs.microsoft.com/de-de/dotnet/csharp/" target="_blank">
+    <a href="https://docs.microsoft.com/de-de/dotnet/csharp/" target="_blank"> 
     <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  </a>
+  </a> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
    </a>
   &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
      <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
    </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank">
+  <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
   </a>
-&emsp;
+&emsp; 
 </p>
 
 ### 📱 Frontend Development
 
-<p align="start">
-    &emsp;
-    <a href="https://www.w3.org/html/" target="_blank">
+<p align="start"> 
+    <a href="https://www.w3.org/html/" target="_blank"> 
         <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    </a>
+    </a>   
     &emsp;
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    </a>
+    </a> 
     &emsp;
-    <a href="https://reactjs.org/" target="_blank">
+    <a href="https://reactjs.org/" target="_blank"> 
         <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     </a>
       &emsp;
-    <a href="https://reactnative.dev/" target="_blank">
+    <a href="https://reactnative.dev/" target="_blank"> 
         <img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     </a>
     &emsp;
-    <a href="https://angular.io/" target="_blank">
+    <a href="https://angular.io/" target="_blank"> 
         <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
     </a>
     &emsp;
-    <a href="https://getbootstrap.com" target="_blank">
+    <a href="https://getbootstrap.com" target="_blank"> 
         <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </a>
     &emsp;
-    <a href="https://mui.com/" target="_blank">
+    <a href="https://mui.com/" target="_blank"> 
         <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
     </a>
 </p>
@@ -82,7 +77,6 @@
 ### 💾 Backend & Databases
 
 <p align="start">
-    &emsp;
     <a href="https://nodejs.org/en/" target="_blank">
         <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     </a>
@@ -97,10 +91,8 @@
 </p>
   
 ### 🖍 Graphic Designing
-
 <p align="start">
-    &emsp;
-    <a href="https://www.figma.com/" target="_blank">
+	<a href="https://www.figma.com/" target="_blank">
         <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     </a>
     &emsp;
@@ -108,11 +100,11 @@
         <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
     </a>
      &emsp;
-    <a href="https://www.adobe.com/de/products/photoshop.html" target="_blank">
+    <a href="https://www.adobe.com/de/products/photoshop.html" target="_blank"> 
         <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
     </a>
       &emsp;
-    <a href="https://affinity.serif.com/de/" target="_blank">
+    <a href="https://affinity.serif.com/de/" target="_blank"> 
         <img alt="Affinity" src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white"/>
     </a>
  </p>
@@ -120,7 +112,6 @@
 ### 💻 Software & Tools
 
 <p align="start">
-    &emsp;
     <a href="#">
         <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     </a>
@@ -168,7 +159,7 @@
     <a href="#">
         <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
     </a>
- &emsp;
+ &emsp; 
 </p>
 
 <br/>
@@ -184,5 +175,5 @@
     </a>
     <a href="https://github.com/TanerKp" target="_blank">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a> 
+    </a>	
 </p>
