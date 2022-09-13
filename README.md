@@ -6,7 +6,6 @@
 * 🌍  I'm based in Munich
 * ⚡  Always open to learn new things
 
-<br>
 ## ⚒️ My Skills
 
 ### ⚛ Core
