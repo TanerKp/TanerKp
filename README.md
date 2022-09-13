@@ -7,7 +7,7 @@
 * ⚡  Always open to learn new things
 
 <br>
-## 🛠️ My Skills
+## 📚 My Skills
 
 ### ⚛ Core
 
