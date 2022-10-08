@@ -1,7 +1,7 @@
 
 # Hi 🧑🏻‍💻 My name is Taner!
 ### Computer Science Student & Full Stack Developer
-<p>I've been learning to program since I was 17 years old. It all started by teaching myself C# with a book over the summer holidays. After exploring each chapter and solving all tasks, I successfully participated in my first Ludum Dare. From that point on, I dealt with several topics in computer science and then ended up studying. I worked as a working student and intern in the technical development of the automobile. There I was able to fully automate the testing using C, C# and Python. After a couple of years of working deeply with hardware, I wanted to get into web development. Now I work as a fullstack developer in a small company.</p>
+<p>I've been learning to code since I was 17 years old. It all started by teaching myself C# with a book over the summer holidays. After exploring each chapter and solving all tasks, I successfully participated in my first Ludum Dare. From that point on, I dealt with several topics in computer science and then ended up studying. I worked as a working student and intern in the technical development of the automobile. There I was able to fully automate the testing using C, C# and Python. After a couple of years of working deeply with hardware, I wanted to get into web development. Now I work as a fullstack developer in a small company.</p>
 
 * 🌍  I'm based in Munich
 * ⚡  Always open to learn new things
