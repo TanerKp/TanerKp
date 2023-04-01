@@ -71,8 +71,14 @@ I've also had the opportunity to work as a working student and intern in the tec
     <a href="https://www.postgresql.org/" target="_blank">
         <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
     </a>
-    <a href="#" target="_blank">
+    <a href="https://www.prisma.io/" target="_blank">
         <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+    </a>
+    <a href="https://nestjs.com/" target="_blank">
+        <img alt="NestJs" src="https://img.shields.io/badge/nestjs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white">
+    </a>
+    <a href="https://swagger.io/" target="_blank">
+        <img alt="Swagger" src="https://img.shields.io/badge/swagger-38b832?style=for-the-badge&logo=swagger&logoColor=white">
     </a>
 </p>
   
